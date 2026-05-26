@@ -13,22 +13,6 @@ Passionate about building scalable web applications and learning new technologie
 
 ---
 
-##  Development Activity
-
-While most of my personal repositories are on GitHub, a large portion of my development work happens on GitLab.
-
-You can view my active development contributions here:
-
-GitLab Profile  
-https://gitlab.2lovelaces.io/mbrian
-
-This includes:
-- active projects
-- commits
-- collaboration work
-- ongoing development experiments
----
-
 ##  Tech Stack
 
 **Languages**
